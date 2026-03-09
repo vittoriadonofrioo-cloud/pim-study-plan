@@ -1,0 +1,440 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Perplexity//PIM1 Study Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIM1 Study Plan
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:pim1-1-2026-03-09-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260309T180000
+DTEND;TZID=Europe/Rome:20260309T200000
+SUMMARY:PIM1 Study — Week 1 Day1 — History of microbiology and modern taxonomy
+DESCRIPTION:Week 1 (Mar 9-15)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: History of microbiology and modern taxonomy\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-2-2026-03-12-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260312T180000
+DTEND;TZID=Europe/Rome:20260312T200000
+SUMMARY:PIM1 Study — Week 1 Day2 — Bacterial cell structure\, endospores\, microscopy\, and staining
+DESCRIPTION:Week 1 (Mar 9-15)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Bacterial cell structure\, endospores\, microscopy\, and staining\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-3-2026-03-14-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260314T100000
+DTEND;TZID=Europe/Rome:20260314T150000
+SUMMARY:PIM1 Study — Week 1 Saturday — Microbial nutrition\, growth\, association\, culturing microorganisms\, plus Bacteria Structure and Function video
+DESCRIPTION:Week 1 (Mar 9-15)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Microbial nutrition\, growth\, association\, culturing microorganisms\, plus Bacteria Structure and Function video\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-4-2026-03-15-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260315T100000
+DTEND;TZID=Europe/Rome:20260315T140000
+SUMMARY:PIM1 Study — Week 1 Sunday — Identifying microorganisms and weekly recap
+DESCRIPTION:Week 1 (Mar 9-15)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Identifying microorganisms and weekly recap\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-5-2026-03-16-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260316T180000
+DTEND;TZID=Europe/Rome:20260316T200000
+SUMMARY:PIM1 Study — Week 2 Day1 — Antimicrobial drugs and antibiotic resistance
+DESCRIPTION:Week 2 (Mar 16-22)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Antimicrobial drugs and antibiotic resistance\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-6-2026-03-19-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260319T180000
+DTEND;TZID=Europe/Rome:20260319T200000
+SUMMARY:PIM1 Study — Week 2 Day2 — Symbiosis\, human microbiota\, and the process of infection
+DESCRIPTION:Week 2 (Mar 16-22)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Symbiosis\, human microbiota\, and the process of infection\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-7-2026-03-21-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260321T100000
+DTEND;TZID=Europe/Rome:20260321T150000
+SUMMARY:PIM1 Study — Week 2 Saturday — Epidemiology\, public health\, and microbial classification
+DESCRIPTION:Week 2 (Mar 16-22)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Epidemiology\, public health\, and microbial classification\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-8-2026-03-22-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260322T100000
+DTEND;TZID=Europe/Rome:20260322T140000
+SUMMARY:PIM1 Study — Week 2 Sunday — General Microbiology review and active recall
+DESCRIPTION:Week 2 (Mar 16-22)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: General Microbiology review and active recall\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-9-2026-03-23-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260323T180000
+DTEND;TZID=Europe/Rome:20260323T200000
+SUMMARY:PIM1 Study — Week 3 Day1 — Medical Bacteriology block 1 start
+DESCRIPTION:Week 3 (Mar 23-29)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology block 1 start\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-10-2026-03-26-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260326T180000
+DTEND;TZID=Europe/Rome:20260326T200000
+SUMMARY:PIM1 Study — Week 3 Day2 — Medical Bacteriology block 1 continue
+DESCRIPTION:Week 3 (Mar 23-29)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology block 1 continue\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-11-2026-03-28-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260328T100000
+DTEND;TZID=Europe/Rome:20260328T150000
+SUMMARY:PIM1 Study — Week 3 Saturday — Medical Bacteriology block 1 finish key points
+DESCRIPTION:Week 3 (Mar 23-29)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology block 1 finish key points\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-12-2026-03-29-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260329T100000
+DTEND;TZID=Europe/Rome:20260329T140000
+SUMMARY:PIM1 Study — Week 3 Sunday — Medical Bacteriology block 1 review and recall
+DESCRIPTION:Week 3 (Mar 23-29)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology block 1 review and recall\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-13-2026-03-30-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260330T180000
+DTEND;TZID=Europe/Rome:20260330T200000
+SUMMARY:PIM1 Study — Week 4 Day1 — Medical Bacteriology block 2 start
+DESCRIPTION:Week 4 (Mar 30-Apr 5)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology block 2 start\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-14-2026-04-02-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260402T180000
+DTEND;TZID=Europe/Rome:20260402T200000
+SUMMARY:PIM1 Study — Week 4 Day2 — Medical Bacteriology block 2 continue
+DESCRIPTION:Week 4 (Mar 30-Apr 5)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology block 2 continue\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-15-2026-04-04-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260404T100000
+DTEND;TZID=Europe/Rome:20260404T150000
+SUMMARY:PIM1 Study — Week 4 Saturday — Medical Bacteriology block 2 finish key points
+DESCRIPTION:Week 4 (Mar 30-Apr 5)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology block 2 finish key points\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-16-2026-04-05-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260405T100000
+DTEND;TZID=Europe/Rome:20260405T140000
+SUMMARY:PIM1 Study — Week 4 Sunday — Medical Bacteriology block 2 review and recall
+DESCRIPTION:Week 4 (Mar 30-Apr 5)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology block 2 review and recall\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-17-2026-04-06-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260406T180000
+DTEND;TZID=Europe/Rome:20260406T200000
+SUMMARY:PIM1 Study — Week 5 Day1 — Medical Bacteriology block 3 start
+DESCRIPTION:Week 5 (Apr 6-12)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology block 3 start\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-18-2026-04-09-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260409T180000
+DTEND;TZID=Europe/Rome:20260409T200000
+SUMMARY:PIM1 Study — Week 5 Day2 — Medical Bacteriology block 3 continue
+DESCRIPTION:Week 5 (Apr 6-12)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology block 3 continue\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-19-2026-04-11-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260411T100000
+DTEND;TZID=Europe/Rome:20260411T150000
+SUMMARY:PIM1 Study — Week 5 Saturday — Medical Bacteriology block 3 finish key points
+DESCRIPTION:Week 5 (Apr 6-12)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology block 3 finish key points\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-20-2026-04-12-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260412T100000
+DTEND;TZID=Europe/Rome:20260412T140000
+SUMMARY:PIM1 Study — Week 5 Sunday — Medical Bacteriology cumulative review
+DESCRIPTION:Week 5 (Apr 6-12)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Medical Bacteriology cumulative review\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-21-2026-04-13-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260413T180000
+DTEND;TZID=Europe/Rome:20260413T200000
+SUMMARY:PIM1 Study — Week 6 Day1 — Primary innate defense part 1
+DESCRIPTION:Week 6 (Apr 13-19)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Primary innate defense part 1\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-22-2026-04-16-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260416T180000
+DTEND;TZID=Europe/Rome:20260416T200000
+SUMMARY:PIM1 Study — Week 6 Day2 — Primary innate defense part 2
+DESCRIPTION:Week 6 (Apr 13-19)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Primary innate defense part 2\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-23-2026-04-18-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260418T100000
+DTEND;TZID=Europe/Rome:20260418T150000
+SUMMARY:PIM1 Study — Week 6 Saturday — Primary innate defense review
+DESCRIPTION:Week 6 (Apr 13-19)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Primary innate defense review\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-24-2026-04-19-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260419T100000
+DTEND;TZID=Europe/Rome:20260419T140000
+SUMMARY:PIM1 Study — Week 6 Sunday — Innate defense recall and short quiz
+DESCRIPTION:Week 6 (Apr 13-19)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Innate defense recall and short quiz\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-25-2026-04-20-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260420T180000
+DTEND;TZID=Europe/Rome:20260420T200000
+SUMMARY:PIM1 Study — Week 7 Day1 — Secondary innate defense
+DESCRIPTION:Week 7 (Apr 20-26)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Secondary innate defense\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-26-2026-04-23-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260423T180000
+DTEND;TZID=Europe/Rome:20260423T200000
+SUMMARY:PIM1 Study — Week 7 Day2 — Inflammation
+DESCRIPTION:Week 7 (Apr 20-26)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Inflammation\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-27-2026-04-25-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260425T100000
+DTEND;TZID=Europe/Rome:20260425T150000
+SUMMARY:PIM1 Study — Week 7 Saturday — Inflammation consolidation and links with innate defense
+DESCRIPTION:Week 7 (Apr 20-26)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Inflammation consolidation and links with innate defense\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-28-2026-04-26-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260426T100000
+DTEND;TZID=Europe/Rome:20260426T140000
+SUMMARY:PIM1 Study — Week 7 Sunday — Innate Immunity full review
+DESCRIPTION:Week 7 (Apr 20-26)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Innate Immunity full review\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-29-2026-04-27-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260427T180000
+DTEND;TZID=Europe/Rome:20260427T200000
+SUMMARY:PIM1 Study — Week 8 Day1 — Tumor nomenclature and epidemiology
+DESCRIPTION:Week 8 (Apr 27-May 3)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Tumor nomenclature and epidemiology\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-30-2026-04-30-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260430T180000
+DTEND;TZID=Europe/Rome:20260430T200000
+SUMMARY:PIM1 Study — Week 8 Day2 — Benign and malignant neoplasms part 1
+DESCRIPTION:Week 8 (Apr 27-May 3)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Benign and malignant neoplasms part 1\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-31-2026-05-02-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260502T100000
+DTEND;TZID=Europe/Rome:20260502T150000
+SUMMARY:PIM1 Study — Week 8 Saturday — Benign and malignant neoplasms part 2
+DESCRIPTION:Week 8 (Apr 27-May 3)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Benign and malignant neoplasms part 2\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-32-2026-05-03-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260503T100000
+DTEND;TZID=Europe/Rome:20260503T140000
+SUMMARY:PIM1 Study — Week 8 Sunday — Tumor biology review: nomenclature and malignant features
+DESCRIPTION:Week 8 (Apr 27-May 3)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Tumor biology review: nomenclature and malignant features\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-33-2026-05-04-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260504T180000
+DTEND;TZID=Europe/Rome:20260504T200000
+SUMMARY:PIM1 Study — Week 9 Day1 — Molecular basis of cancer part 1
+DESCRIPTION:Week 9 (May 4-10)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Molecular basis of cancer part 1\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-34-2026-05-07-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260507T180000
+DTEND;TZID=Europe/Rome:20260507T200000
+SUMMARY:PIM1 Study — Week 9 Day2 — Molecular basis of cancer part 2
+DESCRIPTION:Week 9 (May 4-10)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Molecular basis of cancer part 2\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-35-2026-05-09-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260509T100000
+DTEND;TZID=Europe/Rome:20260509T150000
+SUMMARY:PIM1 Study — Week 9 Saturday — Clinical aspects of patients with tumors
+DESCRIPTION:Week 9 (May 4-10)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Clinical aspects of patients with tumors\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-36-2026-05-10-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260510T100000
+DTEND;TZID=Europe/Rome:20260510T140000
+SUMMARY:PIM1 Study — Week 9 Sunday — Tumor Biology review
+DESCRIPTION:Week 9 (May 4-10)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Tumor Biology review\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-37-2026-05-11-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260511T180000
+DTEND;TZID=Europe/Rome:20260511T200000
+SUMMARY:PIM1 Study — Week 10 Day1 — PT1: Cellular adaptation
+DESCRIPTION:Week 10 (May 11-17)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: PT1: Cellular adaptation\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-38-2026-05-14-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260514T180000
+DTEND;TZID=Europe/Rome:20260514T200000
+SUMMARY:PIM1 Study — Week 10 Day2 — PT1: Cell injury and cell death
+DESCRIPTION:Week 10 (May 11-17)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: PT1: Cell injury and cell death\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-39-2026-05-16-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260516T100000
+DTEND;TZID=Europe/Rome:20260516T150000
+SUMMARY:PIM1 Study — Week 10 Saturday — PT1: Programmed cell death
+DESCRIPTION:Week 10 (May 11-17)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: PT1: Programmed cell death\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-40-2026-05-17-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260517T100000
+DTEND;TZID=Europe/Rome:20260517T140000
+SUMMARY:PIM1 Study — Week 10 Sunday — PT1 review: pathology basics and pathologist workflow
+DESCRIPTION:Week 10 (May 11-17)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: PT1 review: pathology basics and pathologist workflow\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-41-2026-05-18-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260518T180000
+DTEND;TZID=Europe/Rome:20260518T200000
+SUMMARY:PIM1 Study — Week 11 Day1 — Vascular pathology: angiogenesis and tumor angiogenesis
+DESCRIPTION:Week 11 (May 18-24)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Vascular pathology: angiogenesis and tumor angiogenesis\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-42-2026-05-21-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260521T180000
+DTEND;TZID=Europe/Rome:20260521T200000
+SUMMARY:PIM1 Study — Week 11 Day2 — Vascular pathology: hemostasis
+DESCRIPTION:Week 11 (May 18-24)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Vascular pathology: hemostasis\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-43-2026-05-23-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260523T100000
+DTEND;TZID=Europe/Rome:20260523T150000
+SUMMARY:PIM1 Study — Week 11 Saturday — Vascular pathology: thrombosis
+DESCRIPTION:Week 11 (May 18-24)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Vascular pathology: thrombosis\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-44-2026-05-24-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260524T100000
+DTEND;TZID=Europe/Rome:20260524T140000
+SUMMARY:PIM1 Study — Week 11 Sunday — Vascular pathology: mechanisms of atherosclerosis
+DESCRIPTION:Week 11 (May 18-24)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Vascular pathology: mechanisms of atherosclerosis\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-45-2026-05-25-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260525T180000
+DTEND;TZID=Europe/Rome:20260525T200000
+SUMMARY:PIM1 Study — Week 12 Day1 — Review: General Microbiology and Medical Bacteriology
+DESCRIPTION:Week 12 (May 25-31)\nSlot: Day1\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Review: General Microbiology and Medical Bacteriology\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-46-2026-05-28-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260528T180000
+DTEND;TZID=Europe/Rome:20260528T200000
+SUMMARY:PIM1 Study — Week 12 Day2 — Review: Innate Immunity and Tumor Biology
+DESCRIPTION:Week 12 (May 25-31)\nSlot: Day2\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Review: Innate Immunity and Tumor Biology\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-47-2026-05-30-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260530T100000
+DTEND;TZID=Europe/Rome:20260530T150000
+SUMMARY:PIM1 Study — Week 12 Saturday — Review: PT1 and Vascular Pathology
+DESCRIPTION:Week 12 (May 25-31)\nSlot: Saturday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Review: PT1 and Vascular Pathology\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pim1-48-2026-05-31-study@perplexity.local
+DTSTAMP:20260309T195930
+DTSTART;TZID=Europe/Rome:20260531T100000
+DTEND;TZID=Europe/Rome:20260531T140000
+SUMMARY:PIM1 Study — Week 12 Sunday — Self-assessment\, weak-topic recovery\, and final recap
+DESCRIPTION:Week 12 (May 25-31)\nSlot: Sunday\nSuggested workload: weekday sessions 2h; Saturday 5–6h; Sunday 4–5h.\nTopic: Self-assessment\, weak-topic recovery\, and final recap\nEditable on iPad after import.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
